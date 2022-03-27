@@ -9,12 +9,14 @@
  <img  height="100px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/css.png" />
 </span>  
 <span>
- <img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/javascript.png" />
+ <img  height="100px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/javascript.png" />
 </span> 
 <span>
  <img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/react.png" />
 </span>  
 <span>
  <img  height="80px" width="50px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/java.png" /> 
+</span>
+<span>
+ <img  height="80px" width="50px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/spring.png" /> 
  </span>
-
