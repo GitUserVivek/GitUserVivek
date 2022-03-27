@@ -7,14 +7,14 @@
 ## Hellow World.. 
 
   <p align="center" text-align="center">  
- <table align="center" text-align="center">
+ <table align="center">
   <tr>
-   <td> <img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/html.png" />  </td>
-   <td> <img  height="100px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/css.png" /> </td>
-   <td> <img  height="100px" width="100px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/javascript.png" /> </td>
-   <td>  <img  height="90px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/react.png" /> </td>
-   <td>  <img  height="80px" width="50px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/java.png" />  </td>
-   <td>  <img  height="80px" width="50px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/spring.png" />  </td>
+   <td> <img  height="80%" width="80%"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/html.png" />  </td>
+   <td> <img  height="100%" width="80%"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/css.png" /> </td>
+   <td> <img  height="100%" width="100%"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/javascript.png" /> </td>
+   <td>  <img  height="90%" width="80%"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/react.png" /> </td>
+   <td>  <img  height="80%" width="50%"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/java.png" />  </td>
+   <td>  <img  height="80%" width="50%"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/spring.png" />  </td>
   </tr> 
   <tr>
    <td>HTML </td>
