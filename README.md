@@ -19,6 +19,4 @@
 </span>
 <span>
  <img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/spring.png" /> 
- </span>
- 
- <span>.................. </span>
+ </span> 
