@@ -4,12 +4,11 @@
  -->   
 
    
-
-
-  <p align="center" text-align="center"> 
 ## Hellow World.. 
+
+  <p align="center" text-align="center">  
  <span>
- <img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/html.png" />
+ <img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/html.png" /><br/>HTML
 </span>  
 <span>
  <img  height="100px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/css.png" />
