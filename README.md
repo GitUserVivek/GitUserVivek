@@ -3,10 +3,10 @@
 - 💻 Looking For Job Opportunity
  -->   
 
-   
+#
 ## Hellow World.. <span>  <img height="22px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/Hi.gif" /> </span> ItzJvs.. 
 
-  <p align="center" text-align="center">  
+  <p align="center">  
  <table align="center">
   <tr>
    <td align='center'> <img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/html.png" />  </td>
@@ -26,8 +26,8 @@
   </tr>
 
   <tr>
-     <td></td>
-   <td colspan="4" align='center'> " 🔗 https://gituservivek.github.io/jvs/  :-" </td>
+     <td> </td>
+   <td colspan="4" align='center'>  <h4> <i>Exploring More..</i> </h4>  </td>
        <td></td>
   </tr>
     </table>
@@ -38,4 +38,7 @@
        </tr>
     </table>
 </p>
-## Thank You! 🤵
+
+#
+## ThankYou..🤵
+
