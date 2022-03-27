@@ -16,5 +16,13 @@
    <td>  <img  height="80px" width="50px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/java.png" />  </td>
    <td>  <img  height="80px" width="50px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/spring.png" />  </td>
   </tr> 
+  <tr>
+   <td>HTML </td>
+   <td> CSS</td>
+   <td> JAVASCRIPT</td>
+   <td> REACTJS </td>
+   <td> JAVA</td>
+   <td> SPRING BOOT</td>
+  </tr>
   </table>
 </p>
