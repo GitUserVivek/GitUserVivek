@@ -12,7 +12,7 @@
  <img  height="100px" width="100px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/javascript.png" />
 </span> 
 <span>
- <img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/react.png" />
+ <img  height="90px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/react.png" />
 </span>  
 <span>
  <img  height="80px" width="50px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/java.png" /> 
