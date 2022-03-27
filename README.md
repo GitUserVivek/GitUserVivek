@@ -14,7 +14,7 @@
    <td align='center'> <img  height="100px" width="100px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/javascript.png" /> </td>
    <td align='center'>  <img  height="90px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/react.png" /> </td>
    <td align='center'>  <img  height="80px" width="50px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/java.png" />  </td>
-   <td align='center'>  <img  height="80px" width="50px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/spring.png" />  </td>
+   <td align='center'>  <img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/spring.png" />  </td>
   </tr> 
   <tr>
    <td align='center'>HTML </td>
