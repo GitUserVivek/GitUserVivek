@@ -34,7 +34,8 @@
     <table align="center">
        <tr>
          <td> <img src="https://github.com/GitUserVivek/GitUserVivek/blob/main/Night-Coding.gif" /> </td>
-         <td> <img height="200px" width="200px" src="https://github.com/GitUserVivek/GitUserVivek/blob/main/coffee.png" /> </td>
+         <td> <img height="150px" width="150px" src="https://github.com/GitUserVivek/GitUserVivek/blob/main/coffee.png" /> </td>
+        <td> <img height="190px" width="300px" src="https://github.com/GitUserVivek/GitUserVivek/blob/main/topView.gif" /> </td>
        </tr>
     </table>
 </p>
