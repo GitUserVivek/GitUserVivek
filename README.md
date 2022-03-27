@@ -1,8 +1,7 @@
 <!-- - 👋 Hi, I’m @GitUserVivek
 - 👀 Interested To learn Programming Languages 
 - 💻 Looking For Job Opportunity
- --> 
- <span>.................. </span>
+ -->  
 <span>
  <img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/html.png" />
 </span>  
