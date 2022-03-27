@@ -25,7 +25,7 @@
    <td> SPRING BOOT</td>
   </tr>
   <tr>
-   <td colspan="4"> hellow </td>
+   <td colspan="4" align='center'> hellow </td>
   </tr>
   </table>
 </p>
