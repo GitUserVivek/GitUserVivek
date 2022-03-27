@@ -24,10 +24,12 @@
    <td align='center'> JAVA</td>
    <td align='center'> SPRING BOOT</td>
   </tr>
-  <td></td>
+
   <tr>
+     <td></td>
    <td colspan="4" align='center'> hellow </td>
+       <td></td>
   </tr>
-    <td></td>
+
   </table>
 </p>
