@@ -31,9 +31,9 @@
        <td></td>
   </tr>
  <tr>
-     <td> <img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/Night-Coding.gif" /> </td>
+     <td> <img src="https://github.com/GitUserVivek/GitUserVivek/blob/main/Night-Coding.gif" /> </td>
  
-       <td><img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/code.gif" /></td>
+       <td><img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/code.gif"/></td>
   </tr>
   </table>
 </p>
