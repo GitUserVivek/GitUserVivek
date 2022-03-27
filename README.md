@@ -7,7 +7,7 @@
 ## Hellow World.. 
 
   <p align="center" text-align="center">  
- <table align="center">
+ <table align="center" text-align="center">
   <tr>
    <td> <img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/html.png" />  </td>
    <td> <img  height="100px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/css.png" /> </td>
