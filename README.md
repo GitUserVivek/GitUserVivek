@@ -2,6 +2,7 @@
 - 👀 Interested To learn Programming Languages 
 - 💻 Looking For Job Opportunity
  --> 
+ <center>
 <span>
  <img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/html.png" />
 </span>  
@@ -20,3 +21,4 @@
 <span>
  <img  height="80px" width="80px"  src="https://github.com/GitUserVivek/GitUserVivek/blob/main/spring.png" /> 
  </span>
+</center>
